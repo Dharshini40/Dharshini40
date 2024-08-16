@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshini40" alt="dharshini40" /></a> </p>
 
-- 😊About Me **I’m pursuing B.E Computer science and Engineering at Sri Ramakrishna Institute of Technology.🌱Learning Frontend Development with Spotkanck.**
+- 😊About Me **I’m pursuing B.E Computer science and Engineering at Sri Ramakrishna Institute of Technology.
+- 🌱Learning Frontend Development with Spotkanck.**
 
 - 📫 How to reach me **dharshinirathinam40@gmail.com**
 
